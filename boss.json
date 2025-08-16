@@ -1,0 +1,14 @@
+{
+	"name": "bpl-identifier",
+	"description": "",
+	"version": "1.0.6",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [
+		"BplIdentifier.dproj"
+	],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.1.6",
+		"github.com/hashload/jhonson": "^1.1.9"
+	}
+}

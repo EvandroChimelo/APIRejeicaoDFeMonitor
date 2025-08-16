@@ -1,0 +1,11 @@
+{
+	"id": "273eebd96f79f2e09b9942050c5bc49e",
+	"auth": {},
+	"purge_after": 3,
+	"internal_refresh_rate": 5,
+	"last_purge_cache": "2025-06-10T18:11:54.2996233-03:00",
+	"last_internal_update": "2025-06-10T17:39:25.2841718-03:00",
+	"delphi_path": "C:\\Program Files (x86)\\Embarcadero\\Studio\\23.0\\bin",
+	"config_version": 6,
+	"git_embedded": true
+}

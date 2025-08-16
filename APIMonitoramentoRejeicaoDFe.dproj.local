@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/10 18:20:38.000.983,C:\Users\evand\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Projects\APIRejeicaoDFeMonitor\APIMonitoramentoRejeicaoDFe.dproj</Transaction>
+    <Transaction>2025/08/11 22:10:10.367,=C:\Projects\APIRejeicaoDFeMonitor\Unit1.pas</Transaction>
+    <Transaction>2025/08/11 22:10:49.546,C:\Projects\APIRejeicaoDFeMonitor\src\UGravarDados.PG.pas=C:\Projects\APIRejeicaoDFeMonitor\Unit1.pas</Transaction>
+    <Transaction>2025/08/11 22:16:17.415,C:\Projects\APIRejeicaoDFeMonitor\src\UGravarDados.PG.pas=</Transaction>
+    <Transaction>2025/08/11 22:17:09.440,=C:\Projects\APIRejeicaoDFeMonitor\Unit1.pas</Transaction>
+    <Transaction>2025/08/11 22:17:29.244,C:\Projects\APIRejeicaoDFeMonitor\Uconexao.P.pas=C:\Projects\APIRejeicaoDFeMonitor\Unit1.pas</Transaction>
+    <Transaction>2025/08/11 22:17:36.858,C:\Projects\APIRejeicaoDFeMonitor\Uconexao.PG.pas=C:\Projects\APIRejeicaoDFeMonitor\Uconexao.P.pas</Transaction>
+  </Transactions>
+</BorlandProject>
