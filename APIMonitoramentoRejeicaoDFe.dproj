@@ -166,7 +166,10 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="Uconexao.PG.pas"/>
+        <DCCReference Include="src\Model.Rejeicao.pas"/>
+        <DCCReference Include="src\Conexao.PG.pas"/>
+        <DCCReference Include="src\DAO.Rejeicao.pas"/>
+        <DCCReference Include="src\Controller.Rejeicao.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
